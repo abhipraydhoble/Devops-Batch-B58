@@ -101,12 +101,3 @@ pwd
 ````
 
 
-
-
-
-
-
-18. /srv - Files for server programs (e.g., websites).
-
-
-19. /run - Temporary system files from this boot.
