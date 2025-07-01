@@ -99,5 +99,31 @@ hostname
 ````
 pwd
 ````
+**shows os information**
+````
+cat /etc/os-release
+````
+
+**shows kernel information**
+````
+uname -a
+````
+**display free memory**
+````
+free -h
+````
+
+**display disk info**
+````
+df -h
+````
+**list content**
+````
+ls
+````
+**shows command description**
+````
+man <command>
+````
 
 
