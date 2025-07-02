@@ -127,3 +127,106 @@ man <command>
 ````
 
 
+**change directory**
+````
+cd <dirname>
+````
+**back to previous dir**
+````
+cd ..
+````
+- check current shell
+````
+echo $SHELL
+````
+- exit the terminal
+```bash
+exit
+```
+- check live processes
+````
+top
+````
+- check CPU information
+```bash
+lscpu
+```
+- check disk/storage information
+````
+df -h
+````
+- list block devices
+```bash
+lsblk
+```
+- check size of file/dir
+````
+du -sh file/dirname
+````
+---
+
+## Directory  Structure in  Linux:
+
+-In Linux directory structure   “/”  (slash) is main directory
+- All other directories comes under “/” directory.
+
+
+
+
+1. / - The main folder.
+
+
+2. /bin - Basic commands everyone uses (e.g., ls, cp).
+
+
+3. /sbin - Commands for system admins (e.g., reboot).
+
+
+4. /usr - Programs and tools for users.
+
+
+5. /var - Stores changing files like logs.
+
+
+6. /tmp - Temporary files that auto-delete.
+
+
+7. /etc - System settings and configuration files.
+
+
+8. /dev - Files that connect to hardware (e.g., USB).
+
+
+9. /proc - Info about running programs and the system.
+
+
+10. /sys - Details about hardware and devices.
+
+
+11. /lib - Helper files for programs to run.
+
+
+12. /boot - Files needed to start the computer.
+
+
+13. /home - home dir of local user.
+
+
+14. /opt - Extra programs you install.
+
+
+15. /root - home dir of root user
+
+
+16. /media - Automatically mounted drives (e.g., USB).
+
+
+17. /mnt - Manually mounted drives.
+
+
+18. /srv - Files for server programs (e.g., websites).
+
+
+19. /run - Temporary system files from this boot.
+
+
