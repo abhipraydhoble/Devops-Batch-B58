@@ -23,7 +23,8 @@
   ls -ltr
   ````
 
-![image](https://github.com/user-attachments/assets/ffaaaf2e-e67c-4bf5-b518-a79eff53701b)
+<img width="1316" height="397" alt="image" src="https://github.com/user-attachments/assets/d2c64465-95ac-48cd-a37b-289d20b2bd0c" />
+
 
 
 | **No.** | **Attribute**                   | **Description**                                                                 |
