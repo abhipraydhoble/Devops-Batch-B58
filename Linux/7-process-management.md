@@ -27,8 +27,8 @@ sleep 30   # Pauses the terminal for 30 seconds.
 - **Cancel Process**: `Ctrl+C`
 
 ### Terminating Jobs
-- **Command**: `kill %n`
-  - Terminates the job with ID `n`.
+- **Command**: `kill -9 pid`
+
 
 ### Background and Foreground Jobs
 - **Background**:
