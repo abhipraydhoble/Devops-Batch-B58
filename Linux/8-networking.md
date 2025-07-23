@@ -34,6 +34,8 @@ Devices facilitating network management:
 * **Router**: Routes data across networks using IP addresses (Layer 3).
 
 ![image](https://github.com/user-attachments/assets/3ce486f5-81d9-4030-b5ab-6262de367fa8)
+<img width="2560" height="2048" alt="image" src="https://github.com/user-attachments/assets/136427d0-2d06-4003-9348-f7a3e1106a66" />
+
 
 * **Bus Topology**: Single cable connecting devices.
 * **Star Topology**: Devices connect to a central hub.
