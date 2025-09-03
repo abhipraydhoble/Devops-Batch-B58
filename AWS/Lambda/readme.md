@@ -90,8 +90,10 @@ def lambda_handler(event, context):
 }
 ````
 
-![image](https://github.com/user-attachments/assets/7f126e21-c83b-452d-a810-3a6470ce5102)
+<img width="1908" height="805" alt="image" src="https://github.com/user-attachments/assets/529db84d-b7ef-4c0c-9038-90b2c036f592" />
 
 
 
-![image](https://github.com/user-attachments/assets/596e1207-fe0b-4dfb-8538-719c565a329c)
+
+<img width="1896" height="636" alt="image" src="https://github.com/user-attachments/assets/b75a7376-d1cc-4edc-b281-7942f3a7bc5e" />
+
