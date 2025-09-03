@@ -10,7 +10,8 @@
 
 • Click on permission and use two policies: AWSLambdaBasicExecutionRole (allow to use cloudwatch) and AmazonEC2Full Access. 
 
-![image](https://github.com/user-attachments/assets/dfc824ac-8ff3-4a1a-af9c-5965522cbd98)
+<img width="1901" height="686" alt="image" src="https://github.com/user-attachments/assets/3ff92ecb-c3a3-4301-981d-6c5be5835d88" />
+
 
 
 
