@@ -14,6 +14,12 @@ sudo chmod 777 /var/run/docker.sock
 ````
 docker pull nginx
 ````
+````
+docker pull abhipraydh96/yoga
+````
+````
+docker pull abhipraydh96/coffee
+````
 ## list docker images
 ````
 docker images
