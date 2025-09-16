@@ -10,7 +10,7 @@ sudo chmod 777 /var/run/docker.sock
 ---
 # docker installation(ubuntu)
 ````
-sudo apt install docker -y
+sudo apt install docker.io -y
 sudo systemctl start docker
 sudo systemctl enable docker
 sudo usermod -aG docker ubuntu
