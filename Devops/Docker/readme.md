@@ -7,6 +7,16 @@ sudo usermod -aG docker ec2-user
 newgrp docker
 sudo chmod 777 /var/run/docker.sock
 ````
+---
+# docker installation(ubuntu)
+````
+sudo apt install docker -y
+sudo systemctl start docker
+sudo systemctl enable docker
+sudo usermod -aG docker ubuntu
+newgrp docker
+sudo chmod 777 /var/run/docker.sock
+````
 # docker Archiecture
 <img width="801" height="401" alt="image" src="https://github.com/user-attachments/assets/788f894f-bc58-480c-b327-e577161813f9" />
 
